@@ -1,1 +1,9 @@
-BinaryWatch 
+           ---------- BinaryWatch -----------
+
+A Binary Watch is a Watch which Hours and Minutes are Represent by Binary Bits. Basically A Binary Watch Has 4 bits for Represent Hours and 6 bits used for Representing Minutes. 
+
+Generally Hours are Ranging From 0 to 11 and
+Minutes are Ranging From 0 to 59.
+
+Source: LeetCode 401 BinaryWatch Problem.
+
