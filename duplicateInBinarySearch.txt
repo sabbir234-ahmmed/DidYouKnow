@@ -1,0 +1,22 @@
+Today is 16 may 2026.
+
+Today we learn about duplicate in Binary search...
+we all are experience with binary search and it was known everybody that binary search can be possible only on sorted array.
+
+if the given array is sorted then ok , we blindly perform binary search on this. if not, even though we would apply binary search by converting this array in sorted . 
+
+
+but the problem arise when the given array contain duplicate value.
+problem: 
+
+WE CAN'T DETERMINE THE DIRECTION IN WHICH DIRECTION WE SHOULD GO.
+
+Most Of The solver stack here and the think it can't possible to solve using binary search but believe me it is very easy to handle this problem ...
+
+The problem occur when value[mind] == value[right]
+
+this uncertain condition can easily neglected by right--.
+
+neglecting logic:
+
+if value[mid] is equal to value[right] then we don't need to track of the right value, because mid still tracking him.. so we can reduce the size of working array by perform right --.
