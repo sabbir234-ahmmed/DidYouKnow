@@ -1,0 +1,22 @@
+Hi guys , How do you do?? or Fahh!
+
+It is 15 May Today. 
+
+Did You Know?? who is lazy and who is crazy at GetX in Flutter?
+it is very important to Know for every Future Software Engineer
+in the case of good Understanding about Dependency Ejection and
+Handle Timing on Flutter.
+
+Here : 
+
+Get.put() ----> is Crazy , Remember Crazy is Faster and can make
+mistake like Rabbit.
+
+Get.lazyPut()--> is known as Lazy, Crazy is slower, clam and accurate and doesn't make mistake like Tortoise .
+
+
+
+Once Again "Slow But Steady Wins" ohhhh! 
+
+so Every Be clam , slow but accurate and win the race of Life .
+
