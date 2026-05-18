@@ -1,0 +1,21 @@
+Did You Know The Time Complexity of BFS ???
+
+Many of Thing that the time complexity of BFS is
+exponential Like recursion , The reason behind it's 
+Traver every node and build a shortes path is not 
+esay task. it need to iterate every possible path.
+
+In bfs traversal queue and visited arry must be 
+to apply. these two together work like a magical 
+stick and reduce it's time complexity into O(n) .
+
+ O(n), Owwwhhhhhh Magical.
+
+ reason: 
+ visited arry help us to track the visited node 
+ and that why push-pop operation happen exactly 
+ once for each node.
+
+
+ Learn more Grow More!!!
+
